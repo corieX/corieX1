@@ -1,4 +1,6 @@
-<h1>Hi, my name is Corey! Aspiring Cybersecurity Professional</a>
+<h1>Hi, my name is Corey! 
+  
+  <a> Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Azure Projects:</h2>
 
