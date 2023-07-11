@@ -6,6 +6,7 @@
 <h2>👨‍💻 Azure Projects:</h2>
 
 - <b>IAM Home Lab Projects: </b>
+  
   - •	Implemented and Managed Azure Active Directory.
 •	Completed self-study and online courses to gain knowledge in Identity and Access Management (IAM) concepts, including user provisioning, access control, and security best practices.
 •	Independently designed and executed a home lab project focused on implementing Azure AD Single Sign-On (SSO) for various cloud-based applications, including Microsoft 365 and Google Cloud.
@@ -13,18 +14,21 @@
 •	Implemented privileged identity management (PIM) and role assignments to mitigate potential insider threats and enforce least privilege principles.
 •	Automate the creation of user accounts in Azure Active Directory (AAD) using PowerShell scripts.
 
-- <b>Cybersecurity Home Lab Projects (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Cybersecurity Home Lab Projects </b>
+
   •	Implemented a vulnerability assessment lab project on Azure using Azure Security Center.
 •	Reviewed assessment reports, identified vulnerabilities, and prioritized remediation efforts.
 •	Established a proactive approach to monitor and continuously assess the Azure environment for new vulnerabilities.
 •	Documented actions taken to address each identified vulnerability for future reference.
 
 - <b>Azure Cloud Project</b>
- Assisted in incident response activities, including detection, analysis, and containment of security incidents.
-Collaborated with cross-functional teams to investigate and mitigate security breaches.
-Conducted forensic analysis to identify the root causes of incidents and implemented remediation measures.
-Documented incident response processes, lessons learned, and recommended improvements.
-Contributed to incident response planning and participated in tabletop exercises to test response capabilities.
+  
+  •	Assisted in incident response activities, including detection, analysis, and containment of security incidents.
+•	Collaborated with cross-functional teams to investigate and mitigate security breaches.
+•	Conducted forensic analysis to identify the root causes of incidents and implemented remediation measures.
+•	Documented incident response processes, lessons learned, and recommended improvements.
+•	Contributed to incident response planning and participated in tabletop exercises to test response capabilities.
+
 
 
 <h2> 🤳 Connect with me:</h2>
