@@ -1,4 +1,4 @@
-<h1>Aspiring Cybersecurity Professional
+<h1>Aspiring Cybersecurity Professional</h1>
   
  Welcome to my GitHub profile! My name is Corey,  I'm passionate about cybersecurity and my purpose is to teach and add value with information security. Here you'll find my projects, scripts, and contributions focused on various aspects of cybersecurity.
 
