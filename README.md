@@ -5,21 +5,26 @@
 
 <h2>👨‍💻 Azure Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>IAM Home Lab Projects: </b>
+  - •	Implemented and Managed Azure Active Directory.
+•	Completed self-study and online courses to gain knowledge in Identity and Access Management (IAM) concepts, including user provisioning, access control, and security best practices.
+•	Independently designed and executed a home lab project focused on implementing Azure AD Single Sign-On (SSO) for various cloud-based applications, including Microsoft 365 and Google Cloud.
+•	Configured Azure AD SSO settings, customized the login experience, and implemented multi-factor authentication (MFA) for enhanced security.
+•	Implemented privileged identity management (PIM) and role assignments to mitigate potential insider threats and enforce least privilege principles.
+•	Automate the creation of user accounts in Azure Active Directory (AAD) using PowerShell scripts.
+
+- <b>Cybersecurity Home Lab Projects (React, NodeJS, Azure, and Machine Learning Components)</b>
+  •	Implemented a vulnerability assessment lab project on Azure using Azure Security Center.
+•	Reviewed assessment reports, identified vulnerabilities, and prioritized remediation efforts.
+•	Established a proactive approach to monitor and continuously assess the Azure environment for new vulnerabilities.
+•	Documented actions taken to address each identified vulnerability for future reference.
+
+- <b>Azure Cloud Project</b>
+ Assisted in incident response activities, including detection, analysis, and containment of security incidents.
+Collaborated with cross-functional teams to investigate and mitigate security breaches.
+Conducted forensic analysis to identify the root causes of incidents and implemented remediation measures.
+Documented incident response processes, lessons learned, and recommended improvements.
+Contributed to incident response planning and participated in tabletop exercises to test response capabilities.
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -37,4 +42,3 @@
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started
