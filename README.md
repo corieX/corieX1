@@ -34,5 +34,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
- | LinkedIn
+ | LinkedIn | https://www.linkedin.com/in/-cperry/
 
