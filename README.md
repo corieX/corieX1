@@ -1,6 +1,6 @@
 <h1>Aspiring Cybersecurity Professional</h1>
   
- My name is Corey, I'm passionate about cybersecurity and my purpose is to teach and add value within information security. Here you'll find my projects focused on various aspects of cybersecurity.
+ Hi! My name is Corey Perry. I'm passionate about cybersecurity and my purpose is to teach and add value within information security. Here you'll find my projects focused on various aspects of cybersecurity.
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
